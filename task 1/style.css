@@ -1,0 +1,54 @@
+body{
+    background-color: #cad2c5;
+}
+
+.nav-bg{
+    background-color: #1b1f23;
+}
+
+.git_name {
+    color: #fff;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.sidebar{
+    height: 480px;
+    background-color: #1b1f23;
+    margin: 60px 0;
+    border-radius: 10px;
+}
+
+.rightbar{
+    margin: 60px 0;
+}
+
+.search{
+    width: 100%;
+}
+
+.git_search{
+    width: 100%;
+    background-color: #1b1f23;
+    border: 1px solid #1b1f23;
+    height: 40px;
+    border-radius: 10px;
+    padding-inline-start: 20px;
+}
+
+.git_search::placeholder{
+    color: #fff;
+}
+
+.square_box{
+    height: 150px;
+    background-color: #1b1f23;
+    margin:50px  30px;
+    border-radius: 10px;
+}
+
+.rectangle_box{
+    height: 180px;
+    background-color: #1b1f23;
+    border-radius: 10px;
+}
